@@ -1,4 +1,4 @@
-/ C program to illustrate 
+// C program to illustrate 
 // pipe system call in C 
 #include <stdio.h> 
 #include <unistd.h> 
