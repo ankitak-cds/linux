@@ -39,3 +39,5 @@ int main()
         printf("Finished reading\n"); 
     } 
     return 0; 
+}
+  
